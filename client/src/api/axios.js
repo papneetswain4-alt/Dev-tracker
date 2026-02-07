@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api"
+  baseURL: "https://dev-tracker-api-0f6x.onrender.com"
 });
 
 API.interceptors.request.use((req) => {
