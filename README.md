@@ -186,8 +186,9 @@ Add `_redirects` file inside `client/public`:
 ## 👨‍💻 Author
 
 **Papneet**  
-**🕷️ Friendly Neighborhood Developer*
+*🕷️ Friendly Neighborhood Developer*
 
 ---
 
 ⭐ If this project helped you level up, give it a star!
+
