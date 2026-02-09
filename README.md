@@ -9,7 +9,7 @@ A production-ready full-stack MERN application that helps developers track daily
 ## 🕸️ Live in the Multiverse
 
 **🕷️ Frontend (Netlify)**  
-👉 https://your-netlify-link.netlify.app  
+👉 https://dev-tracker-mern.netlify.app 
 
 **🕸️ Backend API (Render)**  
 👉 https://dev-tracker-api-0f6x.onrender.com  
@@ -191,4 +191,5 @@ Add `_redirects` file inside `client/public`:
 ---
 
 ⭐ If this project helped you level up, give it a star!
+
 
